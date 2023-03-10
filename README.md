@@ -1,9 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=notsick+友)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=nepper+ღ)](https://git.io/typing-svg)
 
 <p align="center">
     <br>
-  <a href="https://discord.com/users/600804786492932101" target="_blank">
+  <a href="https://discord.com/users/1021220954082385950" target="_blank">
     <img width="45%" src="https://lanyard.cnrad.dev/api/1021220954082385950?bg=151515&borderRadius=5px" alt="Discord Status"/>
     </a>
 
