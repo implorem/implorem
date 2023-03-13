@@ -1,12 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=yakult+ღ)](https://git.io/typing-svg)
 
-<p align="center">
-    <br>
-  <a href="https://discord.com/users/1021220954082385950" target="_blank">
-    <img width="45%" src="[https://lanyard.cnrad.dev/api/1053875008839090286?bg=151515&borderRadius=5px" alt="Discord Status"/>
-    </a>
-
 <div align="center">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=implorem&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
         <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=implorem&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
