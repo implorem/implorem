@@ -1,10 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=nepper+ღ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=yakult+ღ)](https://git.io/typing-svg)
 
 <p align="center">
     <br>
   <a href="https://discord.com/users/1021220954082385950" target="_blank">
-    <img width="45%" src="https://lanyard.cnrad.dev/api/1021220954082385950?bg=151515&borderRadius=5px" alt="Discord Status"/>
+    <img width="45%" src="https://lanyard.cnrad.dev/api/1053875008839090286?bg=151515&borderRadius=5px" alt="Discord Status"/>
     </a>
 
 <div align="center">
@@ -26,10 +26,6 @@
 </div>
 
 <br>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=zSpl1nterUS&color=green" alt="Profile views" />
-</div>
 
 </div>
 
